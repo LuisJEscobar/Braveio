@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Braveio.xcodeproj">
+      location = "group:../../../Downloads/logo.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/logo.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
